@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'sinatra'
-get '/hi' do
-  "Hello World!"
+
+get '/' do
+  "Welcome to prohax."
 end
