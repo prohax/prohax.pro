@@ -1,3 +1,3 @@
-require 'hi'
+require 'index'
 
 run Sinatra::Application
